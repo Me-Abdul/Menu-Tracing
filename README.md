@@ -25,7 +25,7 @@ Run the script with the following command:
 ## Example
 
 To parse the navigation links of '<https://www.example.com>' considering only unique links, in verbose mode, and store the output in 'output.json' in JSON format, use the following command:
-    ```    python script_name.py https://www.example.com -u -v -o output.json -f json    ```
+    ```    python script_name.py https://www.example.com -u -v -o output.json -f json    ``` OR
     ```    python script_name.py https://www.example.com -u -v -o output.xml -f xml    ```
 
 ## Error Handling
